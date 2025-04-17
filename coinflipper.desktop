@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Coinflipper
+Exec=/opt/coinflipper/bin/coinflip %U
+Terminal=false
+Type=Application
+Icon=coinflipper
+StartupWMClass=Coinflipper
+GenericName=Random Coin Generator
+Categories=Games;
+Keywords=coin;coinflipper;flip;flipper;
